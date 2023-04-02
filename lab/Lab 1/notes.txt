@@ -1,0 +1,26 @@
+Using linkedlist
+
+we have 1 online furinute store, 1 online book store
+
+- ShoppingCart class
+- store 
+
+
+STORE:
+extends Book_store, Furniture_store
+
+common methods:
+- 
+
+ITEMS
+-> beds
+-> desks
+-> book
+
+ITEMS class should implment linkedlist 
+methods needed: 
+- 
+
+
+
+common var
